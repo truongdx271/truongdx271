@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **onus-agent-dashboard** & **OTAP Pro**
+- 🔭 Currently working on **onus-agent-dashboard** & **onus-ai-agent**
 - 🛠️ I love building **REST APIs**, **admin dashboards**, and **automated pipelines**
 - 📈 Interested in **crypto**, **forex**, and **Vietnamese stock market**
 - 🏎️ F1 fan & football lover
@@ -48,8 +48,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=truongdx271&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongdx271&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=truongdx271&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=truongdx271&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -66,7 +66,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🤖 **onus-agent-dashboard** | Admin dashboard for agent management | Next.js 14, Shadcn/ui, TanStack |
-| ⚙️ **OTAP Pro** | Backend system with REST API | FastAPI, MongoDB, GitHub Actions |
+| ⚙️ **onus-ai-agent** | Backend system with REST API | FastAPI, MongoDB, GitHub Actions |
 | 📈 **Trading Bot** | AI-powered futures trading assistant | Python, TradingView Pine Script |
 
 ---
